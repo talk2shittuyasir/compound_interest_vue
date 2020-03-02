@@ -1,0 +1,13 @@
+        .small-container {
+            /* background-color: #2E1114; */
+            border: 1px outset black;
+            border-radius: 5px;
+        }
+        
+        .rel {
+            font-family: 'Aclonica';
+            font-size: 30px;
+            top: 1px;
+            color: brown;
+            margin-left: 100px;
+        }
